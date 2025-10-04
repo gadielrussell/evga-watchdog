@@ -1,0 +1,14 @@
+﻿# Logs
+*.log
+
+# PowerShell
+*.ps1~
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
